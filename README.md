@@ -116,9 +116,9 @@
   <!-- https://github.com/anuraghazra/github-readme-stats -->
   <h3>💻 GitHub Profile Stats :</h3>
   <br/>
-  <img alt="Kevin Doolaeghe's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=kevin-doolaeghe&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="152px"/>
+  <img alt="Kevin Doolaeghe's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=kevin-doolaeghe&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-  <img alt="Kevin Doolaeghe's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-doolaeghe&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="152px"/>
+  <img alt="Kevin Doolaeghe's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-doolaeghe&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   <br/>
