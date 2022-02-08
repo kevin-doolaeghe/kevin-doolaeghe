@@ -27,7 +27,7 @@
   <a href="https://linkedin.com/in/kevin-doolaeghe-53a72821b" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kevin-doolaeghe-53a72821b" height="30" width="40" />
   </a>
-  <a href="https://stackoverflow.com/users/kevin-doolaeghe" target="blank">
+  <a href="https://stackoverflow.com/users/11420796/kevin-doolaeghe" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kevin-doolaeghe" height="30" width="40" />
   </a>
 </p>
