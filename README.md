@@ -23,6 +23,7 @@
 
 <h3 align="left">✨ <b>Connect with me :</b></h3>
 <p align="left">
+  &emsp;&emsp;&emsp;
   <a href="https://linkedin.com/in/kevin-doolaeghe-53a72821b" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kevin-doolaeghe-53a72821b" height="30" width="40" />
   </a>
@@ -64,21 +65,24 @@
 
 <h3 align="left">📈 <b>Github stats :</b></h3>
 
-<p align="center">
-  <!-- https://github.com/anuraghazra/github-readme-stats -->
-  <h4>&emsp;💻 GitHub Profile Stats :</h4>
-  <br/>
-  <img alt="Kevin Doolaeghe's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=kevin-doolaeghe&show_icons=true&count_private=true&theme=nord&hide_border=true"/>
-  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-  <img alt="Kevin Doolaeghe's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-doolaeghe&langs_count=8&layout=compact&theme=nord&hide_border=true&hide=Jupyter%20Notebook"/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  <br/>
-</p>
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<h4>&emsp;💻 GitHub Profile Stats :</h4>
 
 <p align="center">
-  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-  <h4>&emsp;⚡ Recent GitHub Activity :</h4>
-  <br/>
+  <a href="https://github.com/kevin-doolaeghe?tab=repositories">
+    <img height="180px" alt="Kevin Doolaeghe's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=kevin-doolaeghe&show_icons=true&count_private=true&theme=nord&hide_border=true"/>
+  </a>
+  <a href="https://github.com/kevin-doolaeghe?tab=repositories">
+    <img height="180px" alt="Kevin Doolaeghe's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-doolaeghe&langs_count=8&layout=compact&theme=nord&hide_border=true&hide=Jupyter%20Notebook"/>
+  </a>
+</p>
+&emsp;<b>Note :</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<br/>
+
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<h4>&emsp;⚡ Recent GitHub Activity :</h4>
+
+<p align="center">
   <img alt="Kevin Doolaeghe's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=kevin-doolaeghe&theme=nord&point=FFFFFF&hide_border=true"/>
-  <br/>
 </p>
