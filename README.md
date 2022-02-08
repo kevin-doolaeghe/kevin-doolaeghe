@@ -21,12 +21,12 @@
 
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <p align="left">
-  <a href="https://github.com/kevin-doolaeghe/rpi-server"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kevin-doolaeghe&repo=rpi-server&theme=nord&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
-  <a href="https://github.com/kevin-doolaeghe/se2a5_tp_reseau"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kevin-doolaeghe&repo=se2a5_tp_reseau&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=nord&show_icons=false" alt="readme-typing-svg"></a>
-  <a href="https://github.com/kevin-doolaeghe/NoSleepApp"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=kevin-doolaeghe&repo=NoSleepApp&theme=nord&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
-  <a href="https://github.com/kevin-doolaeghe/docker-compose-website"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kevin-doolaeghe&repo=docker-compose-website&theme=nord&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="LaTeX-Gboard-Dictionary"></a>
-  <a href="https://github.com/kevin-doolaeghe/se2a4_s8_projet_xmaze"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kevin-doolaeghe&repo=se2a4_s8_projet_xmaze&theme=nord&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="unicode-formatter"></a>
-  <a href="https://github.com/kevin-doolaeghe/snir2-projet_drone_agricole"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kevin-doolaeghe&repo=snir2-projet_drone_agricole&theme=nord&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="table2ascii"></a>
+  <a href="https://github.com/kevin-doolaeghe/rpi-server"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kevin-doolaeghe&repo=rpi-server&theme=nord&hide_border=true&show_icons=true"></a>
+  <a href="https://github.com/kevin-doolaeghe/se2a5_tp_reseau"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kevin-doolaeghe&repo=se2a5_tp_reseau&theme=nord&hide_border=true&show_icons=true"></a>
+  <a href="https://github.com/kevin-doolaeghe/NoSleepApp"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kevin-doolaeghe&repo=NoSleepApp&theme=nord&hide_border=true&show_icons=true"></a>
+  <a href="https://github.com/kevin-doolaeghe/docker-compose-website"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kevin-doolaeghe&repo=docker-compose-website&theme=nord&hide_border=true&show_icons=true"></a>
+  <a href="https://github.com/kevin-doolaeghe/se2a4_s8_projet_xmaze"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kevin-doolaeghe&repo=se2a4_s8_projet_xmaze&theme=nord&hide_border=true&show_icons=true"></a>
+  <a href="https://github.com/kevin-doolaeghe/snir2-projet_drone_agricole"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kevin-doolaeghe&repo=snir2-projet_drone_agricole&theme=nord&hide_border=true&show_icons=true"></a>
 </p>
 
 <p align="left">
@@ -114,9 +114,9 @@
   <!-- https://github.com/anuraghazra/github-readme-stats -->
   <h3>💻 GitHub Profile Stats :</h3>
   <br/>
-  <img alt="Kevin Doolaeghe's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=kevin-doolaeghe&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
+  <img alt="Kevin Doolaeghe's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=kevin-doolaeghe&show_icons=true&count_private=true&theme=nord&hide_border=true"/>
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-  <img alt="Kevin Doolaeghe's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-doolaeghe&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook"/>
+  <img alt="Kevin Doolaeghe's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-doolaeghe&langs_count=8&layout=compact&theme=nord&hide_border=true&hide=Jupyter%20Notebook"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   <br/>
@@ -126,6 +126,6 @@
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
   <h3>⚡ Recent GitHub Activity :</h3>
   <br/>
-  <img alt="Kevin Doolaeghe's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=kevin-doolaeghe&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/>
+  <img alt="Kevin Doolaeghe's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=kevin-doolaeghe&theme=nord&point=FFFFFF&hide_border=true"/>
   <br/>
 </p>
