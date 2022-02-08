@@ -5,7 +5,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/kevin-doolaeghe?tab=repositories"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;Documentation%20writer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/kevin-doolaeghe?tab=repositories"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;Documentation%20writer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=08abc7&vCenter=true&size=22"></a>
 </p>
 
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
@@ -21,12 +21,12 @@
 
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <p align="left">
-  <a href="https://github.com/kevin-doolaeghe/rpi-server"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kevin-doolaeghe&repo=rpi-server&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
-  <a href="https://github.com/kevin-doolaeghe/se2a5_tp_reseau"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kevin-doolaeghe&repo=se2a5_tp_reseau&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
-  <a href="https://github.com/kevin-doolaeghe/NoSleepApp"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=kevin-doolaeghe&repo=NoSleepApp&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
-  <a href="https://github.com/kevin-doolaeghe/docker-compose-website"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kevin-doolaeghe&repo=docker-compose-website&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="LaTeX-Gboard-Dictionary"></a>
-  <a href="https://github.com/kevin-doolaeghe/se2a4_s8_projet_xmaze"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kevin-doolaeghe&repo=se2a4_s8_projet_xmaze&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="unicode-formatter"></a>
-  <a href="https://github.com/kevin-doolaeghe/snir2-projet_drone_agricole"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kevin-doolaeghe&repo=snir2-projet_drone_agricole&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="table2ascii"></a>
+  <a href="https://github.com/kevin-doolaeghe/rpi-server"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kevin-doolaeghe&repo=rpi-server&theme=nord&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+  <a href="https://github.com/kevin-doolaeghe/se2a5_tp_reseau"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kevin-doolaeghe&repo=se2a5_tp_reseau&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=nord&show_icons=false" alt="readme-typing-svg"></a>
+  <a href="https://github.com/kevin-doolaeghe/NoSleepApp"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=kevin-doolaeghe&repo=NoSleepApp&theme=nord&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
+  <a href="https://github.com/kevin-doolaeghe/docker-compose-website"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kevin-doolaeghe&repo=docker-compose-website&theme=nord&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="LaTeX-Gboard-Dictionary"></a>
+  <a href="https://github.com/kevin-doolaeghe/se2a4_s8_projet_xmaze"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kevin-doolaeghe&repo=se2a4_s8_projet_xmaze&theme=nord&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="unicode-formatter"></a>
+  <a href="https://github.com/kevin-doolaeghe/snir2-projet_drone_agricole"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kevin-doolaeghe&repo=snir2-projet_drone_agricole&theme=nord&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="table2ascii"></a>
 </p>
 
 <p align="left">
