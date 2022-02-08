@@ -117,7 +117,6 @@
   <img alt="Kevin Doolaeghe's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=kevin-doolaeghe&show_icons=true&count_private=true&theme=nord&hide_border=true"/>
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
   <img alt="Kevin Doolaeghe's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-doolaeghe&langs_count=8&layout=compact&theme=nord&hide_border=true&hide=Jupyter%20Notebook"/>
-  <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   <br/>
 </p>
