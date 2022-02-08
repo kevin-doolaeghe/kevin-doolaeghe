@@ -40,7 +40,7 @@
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/kevin-doolaeghe?tab=repositories">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="kevin-doolaeghe's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kevin-doolaeghe&theme=monokai-metallian&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="kevin-doolaeghe's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kevin-doolaeghe&theme=nord&hide_border=true"/>
   </a>
 </p>
 
