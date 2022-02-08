@@ -66,7 +66,7 @@
 
 <p align="center">
   <!-- https://github.com/anuraghazra/github-readme-stats -->
-  <h3>💻 GitHub Profile Stats :</h3>
+  <h4>&emsp;💻 GitHub Profile Stats :</h4>
   <br/>
   <img alt="Kevin Doolaeghe's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=kevin-doolaeghe&show_icons=true&count_private=true&theme=nord&hide_border=true"/>
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
@@ -77,7 +77,7 @@
 
 <p align="center">
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-  <h3>⚡ Recent GitHub Activity :</h3>
+  <h4>&emsp;⚡ Recent GitHub Activity :</h4>
   <br/>
   <img alt="Kevin Doolaeghe's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=kevin-doolaeghe&theme=nord&point=FFFFFF&hide_border=true"/>
   <br/>
