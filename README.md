@@ -84,5 +84,7 @@
 <h4>&emsp;⚡ Recent GitHub Activity :</h4>
 
 <p align="center">
-  <img alt="Kevin Doolaeghe's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=kevin-doolaeghe&theme=nord&point=FFFFFF&hide_border=true"/>
+  <a href="https://github.com/kevin-doolaeghe?tab=repositories">
+    <img alt="Kevin Doolaeghe's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=kevin-doolaeghe&theme=nord&point=FFFFFF&hide_border=true"/>
+  </a>
 </p>
