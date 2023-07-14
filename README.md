@@ -1,5 +1,5 @@
-<h1 align="center">Kevin Doolaeghe</h1>
-<h3 align="center">A passionate and versatile developer from France</h3>
+<h1 align="center">Kevin DOOLAEGHE</h1>
+<h3 align="center">:triangular_flag_on_post: A passionate and versatile developer from France</h3>
 
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
 <!-- Star counter - https://github.com/idealclover/GitHub-Star-Counter -->
@@ -11,8 +11,6 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/kevin-doolaeghe?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
   </a>
 </p>
-
-<p align="left"> <a href="https://github.com/kevin-doolaeghe?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=kevin-doolaeghe" alt="kevin-doolaeghe" /></a> </p>
 
 <h3 align="left">✨ <b>Connect with me :</b></h3>
 <p align="left">
